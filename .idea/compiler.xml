@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-demo" />
+        <module name="consumer-demo" />
+        <module name="eureka-server" />
+        <module name="people-service" />
+        <module name="zuul-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-demo" target="1.8" />
+      <module name="consumer-demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="people-service" target="1.8" />
+      <module name="springcloud_demo" target="1.8" />
+      <module name="zuul-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

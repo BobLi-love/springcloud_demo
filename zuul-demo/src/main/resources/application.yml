@@ -1,0 +1,30 @@
+server:
+  port: 10010
+zuul:
+  routes:
+    # 第一种
+#    people:  #Map的key(可以随意命名)
+#      path: /people-service/**
+#      serviceId: people-service
+    # 简化之后
+#    people-service: /people-service/**
+    people-service: /people/**
+#  ignored-services:
+#    - consumer-service
+  strip-prefix: false  #全局去除前缀
+#      url: http://localhost:8081
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 6000
+ribbon:   #相关源码再在AbstractRibbonCommand
+  ConnectTimeout: 500   #(ConnectTimeout+ReadTimeout) * 2 < timeoutInMilliseconds  （默认）
+  ReadTimeout: 1000
+  MaxAutoRetriesNextServer: 0  #设置为不重试

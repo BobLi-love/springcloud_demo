@@ -1,0 +1,27 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/local
+    username: root
+    password: 123
+  application:
+    name: people-service
+mybatis:
+  # 配置别名的意义是在mapper.xml文件中在parameterType 的值就不用写成全路径名了
+  # ep:parameterType="com.bean.User"可以写成parameterType = "User"
+  type-aliases-package: com.pojo
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka,http://localhost:8085/eureka
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    lease-renewal-interval-in-seconds: 30
+    lease-expiration-duration-in-seconds: 90
+
+
+
+
