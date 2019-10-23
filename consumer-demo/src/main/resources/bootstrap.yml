@@ -1,0 +1,46 @@
+server:
+  port: 8082
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+    registry-fetch-interval-seconds: 30
+# 第一种配置
+spring:
+  application:
+    name: consumer-service
+  # 配置中心
+  cloud:
+    config:
+      fail-fast: true
+      name: ${spring.application.name}
+      profile: ${spring.profiles.active}
+      discovery:
+        enabled: true
+        service-id: config-server
+  profiles:
+    active: dev
+#第二种配置
+#spring:
+#  application:
+#    name: consumer-service
+#  cloud:
+#    config:
+#      uri: http://localhost:9005
+#      profile: dev
+#      label: ""
+#      enabled: true
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3000
+ribbon:
+  ConnectionTimeOut: 500
+  ReadTimeOut: 2000
+feign:
+  hystrix:
+    enabled: true

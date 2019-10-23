@@ -1,85 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f471a1-c0dc-4aba-8960-840092fca617" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/consumer-demo/target/" />
-    <ignored path="$PROJECT_DIR$/zuul-demo/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/people-service/target/" />
+    <list default="true" id="0d53ed2f-4dd5-419e-9b96-5e2990d98e73" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/config-demo/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-demo/target/" />
+    <ignored path="$PROJECT_DIR$/people-service/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-demo/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1923615550">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.24" value="3" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="28" />
-          <entry key="xml" value="11" />
-          <entry key="yml" value="7" />
+          <entry key="java" value="3" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="28" />
-          <entry key="XML" value="11" />
-          <entry key="YAML" value="7" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="484" />
-          <entry key="xml" value="17" />
-          <entry key="yml" value="189" />
+          <entry key="java" value="228" />
+          <entry key="xml" value="27" />
+          <entry key="yml" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="484" />
-          <entry key="XML" value="17" />
-          <entry key="YAML" value="189" />
+          <entry key="JAVA" value="228" />
+          <entry key="XML" value="27" />
+          <entry key="YAML" value="186" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-demo/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="432">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/java/com/controller/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -87,38 +104,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="69" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="69" />
+            <state relative-caret-position="414">
+              <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/people-service/src/main/java/com/Test.java" />
-        <option value="$PROJECT_DIR$/people-service/pom.xml" />
-        <option value="$PROJECT_DIR$/people-service/src/main/java/com/pojo/ConfigDemo.java" />
-        <option value="$PROJECT_DIR$/people-service/src/main/java/com/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/people-service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/consumer-demo/src/main/java/com/controller/ConsumerController.java" />
-        <option value="$PROJECT_DIR$/consumer-demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/consumer-demo/src/main/java/com/client/PeopleClient.java" />
-        <option value="$PROJECT_DIR$/zuul-demo/src/main/java/com/filter/LoginFilter.java" />
-        <option value="$PROJECT_DIR$/zuul-demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zuul-demo/src/main/java/com/TestDemo.java" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config-demo/src/main/java/com/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-demo/src/main/resources/config/test.yml" />
         <option value="$PROJECT_DIR$/config-demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-demo/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/consumer-demo/src/main/java/com/controller/ConsumerController.java" />
       </list>
     </option>
   </component>
@@ -136,8 +143,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
+    <option name="x" value="100" />
+    <option name="y" value="-35" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
@@ -146,8 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,43 +163,25 @@
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -203,22 +190,26 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="AbstractRi&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.route.support.AbstractRibbonCommand&#10;ZuulFi&#9;PSI&#9;JAVA://com.netflix.zuul.ZuulFilter&#10;loadbalanceIn&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571562760094" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloud-Learning/1-Brixton版教程示例/Chapter1-1-1" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571755915068" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrain\workspace\springcloud_demo\config-demo\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -237,16 +228,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo">
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TestDemo" />
-      <module name="zuul-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ConfigServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -254,14 +239,6 @@
     <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="consumer-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ConsumerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServer 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eureka-server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.EurekaServer" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -280,15 +257,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeopleApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="people-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.PeopleApplication" />
-      <option name="VM_PARAMETERS" value="-Dserver.port=8083" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="zuul-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ZuulApplication" />
@@ -298,57 +266,34 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.PeopleApplication" />
       <item itemvalue="Spring Boot.ZuulApplication" />
       <item itemvalue="Spring Boot.EurekaServer" />
-      <item itemvalue="Spring Boot.EurekaServer 2" />
-      <item itemvalue="Spring Boot.PeopleApplication" />
-      <item itemvalue="Spring Boot.PeopleApplication2" />
-      <item itemvalue="Application.TestDemo" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TestDemo" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpringBootOptions">
-    <option name="showAdditionalConfigNotification" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="92f471a1-c0dc-4aba-8960-840092fca617" name="Default Changelist" comment="" />
-      <created>1570974491601</created>
+      <changelist id="0d53ed2f-4dd5-419e-9b96-5e2990d98e73" name="Default Changelist" comment="" />
+      <created>1571563870851</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570974491601</updated>
-      <workItem from="1570974496977" duration="20047000" />
-      <workItem from="1571181087557" duration="4645000" />
-      <workItem from="1571441198403" duration="685000" />
-      <workItem from="1571465752167" duration="929000" />
-      <workItem from="1571527413726" duration="10358000" />
+      <updated>1571563870851</updated>
+      <workItem from="1571563877043" duration="12254000" />
+      <workItem from="1571784378777" duration="661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36664000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="12915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -358,26 +303,26 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.41442716" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.3479491" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -390,256 +335,81 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people-service/src/main/java/com/Test.java" />
-    <entry file="file://$PROJECT_DIR$/people-service/src/main/java/com/pojo/ConfigDemo.java" />
-    <entry file="file://$PROJECT_DIR$/people-service/src/main/java/com/pojo/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people-service/src/main/java/com/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/EurekaServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-commons/2.0.1.RELEASE/spring-cloud-commons-2.0.1.RELEASE.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-commons/2.0.1.RELEASE/spring-cloud-commons-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-commons/2.0.1.RELEASE/spring-cloud-commons-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ILoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/BaseLoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="735" column="31" selection-start-line="735" selection-start-column="31" selection-end-line="735" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/IRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.5/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/RandomRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.1.RELEASE/spring-cloud-netflix-zuul-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.1.RELEASE/spring-cloud-netflix-zuul-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/support/FilterConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="92" column="28" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="185" column="4" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-demo/src/main/java/com/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/ZuulFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="67" column="40" lean-forward="true" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.1.RELEASE/spring-cloud-netflix-zuul-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/support/AbstractRibbonCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="133" column="88" selection-start-line="133" selection-start-column="74" selection-end-line="133" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-demo/src/main/java/com/ZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-demo/src/main/java/com/filter/LoginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="39" column="72" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_demo.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/java/com/ConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people-service/src/main/java/com/PeopleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/java/com/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="46" column="50" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/java/com/client/PeopleClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        <state relative-caret-position="272">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="69" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="69" />
+        <state relative-caret-position="144">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-demo/src/main/java/com/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-demo/src/main/resources/test.yml" />
+    <entry file="file://$PROJECT_DIR$/config-demo/src/main/resources/config/consumer-service-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-demo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="432">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/java/com/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-demo/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
